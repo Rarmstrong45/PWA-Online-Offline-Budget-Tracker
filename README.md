@@ -26,4 +26,4 @@ The application is deployed on Heroku at https://obscure-taiga-93952.herokuapp.c
 
 ## Screenshot
 
-![screenshot](./PWA-Online-Offline-Budget-Tracker-screenshot.jpg)
+![screenshot](PWA-Online-Offline-Budget-Tracker/public/images/Screenshot.jpg)
