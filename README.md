@@ -26,4 +26,4 @@ The application is deployed on Heroku at https://obscure-taiga-93952.herokuapp.c
 
 ## Screenshot
 
-![screenshot](./images/Screenshot.JPG)
+![screenshot](./Screenshot.JPG)
