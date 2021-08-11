@@ -1,0 +1,59 @@
+body {
+  font-size: 120%;
+  font-family: Arial;
+}
+
+button,
+input {
+  font-size: 100%;
+  font-family: Arial;
+}
+
+table {
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.error {
+  color: red;
+}
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 825px;
+  text-align: center;
+}
+
+.total {
+  font-size: 150%;
+  text-decoration: underline;
+}
+
+.form {
+  margin-top: 25px;
+  width: 100%;
+}
+
+.transactions {
+  text-align: left;
+  max-height: 300px;
+  overflow: auto;
+  width: 90%;
+  margin: 0 auto;
+}
+
+#bodyWrapper {
+   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#d2dfed+0,c8d7eb+26,bed0ea+51,a6c0e3+51,afc7e8+62,bad0ef+75,99b5db+88,799bc8+100;Grey+Blue+Gloss+%231 */
+  background: -webkit-linear-gradient(45deg,  rgb(210,223,237) 0%,rgb(200,215,235) 26%,rgb(190,208,234) 51%,rgb(166,192,227) 51%,rgb(175,199,232) 62%,rgb(186,208,239) 75%,rgb(153,181,219) 88%,rgb(121,155,200) 100%); /* Chrome10-25,Safari5.1-6 */
+  
+}
